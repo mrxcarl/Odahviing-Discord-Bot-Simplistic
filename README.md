@@ -26,5 +26,5 @@ A custom Discord bot built using Python and `discord.py`. This bot provides util
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/discord-bot.git
+git clone https://github.com/mrxcarl/Odahviing-Discord-Bot-Simplistic.git
 cd discord-bot
