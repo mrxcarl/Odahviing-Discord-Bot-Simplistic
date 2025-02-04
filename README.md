@@ -27,4 +27,4 @@ A custom Discord bot built using Python and `discord.py`. This bot provides util
 
 ```bash
 git clone https://github.com/mrxcarl/Odahviing-Discord-Bot-Simplistic.git
-cd discord-bot
+cd Odahviing-Discord-Bot-Simplistic
