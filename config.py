@@ -1,1 +1,1 @@
-TOKEN = "<your-token-here>"
+TOKEN = "<bot-discord-token>"
