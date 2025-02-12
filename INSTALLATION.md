@@ -14,7 +14,7 @@ cd YOUR_REPOSITORY
 
 pip install -r requirements.txt
 
-4️⃣ Install FFmpeg
+Install FFmpeg
 The bot requires FFmpeg to process and play audio.
 
 Windows: Download and add to PATH from the internet FFmpeg
